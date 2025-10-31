@@ -219,5 +219,3 @@ Specify your license here (e.g., MIT). If not set, consider adding a LICENSE fil
 codewithnagesh (GitHub) — use issues or PRs on the repository for discussion.
 
 ---
-
-Thank you — I reviewed the main controllers, services, tenancy bootstrappers, factories and seeders when drafting this README. If you want, I can now commit this README.md to a new branch and open a PR, or expand the README with a Postman collection and example environment file.  
